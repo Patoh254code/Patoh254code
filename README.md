@@ -3,6 +3,7 @@
 **B.Sc. Actuarial Science | Data Scientist | Aspiring Actuary | Problem Solver**
 
 I am a holder of Bachelor of Science Degree in Actuarial Science Graduate with a Diploma in Insurance. 
+
 Passionate about leveraging **data, AI, and analytics** to solve real-world challenges in finance, insurance, and social impact.  
 Currently sharpening my skills in **python, SQL, machine learning and project management** through hands-on projects.
 
