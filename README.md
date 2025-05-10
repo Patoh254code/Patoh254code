@@ -1,9 +1,9 @@
-# 👋 Hi there, I'm Patrice Okotti! 
+# 👋 Hi there, I'm Patrice Okoiti! 
 
-**B.Sc. Actuarial Science | Data Scientist | Problem Solver**
+**B.Sc. Actuarial Science | Data Scientist | Aspiring Actuary | Problem Solver**
 
 Passionate about leveraging **data, AI, and analytics** to solve real-world challenges in finance, insurance, and social impact.  
-Currently sharpening my skills in **machine learning and project management** through hands-on projects.
+Currently sharpening my skills in **python, SQL, machine learning and project management** through hands-on projects.
 
 ---
 
@@ -13,6 +13,8 @@ Currently sharpening my skills in **machine learning and project management** th
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 
 **Currently Learning**  
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
@@ -29,6 +31,6 @@ Currently sharpening my skills in **machine learning and project management** th
 ### 🎯 2025 Goals
 - Build 3 end-to-end ML projects
 - Complete my Data Science certification
-- Network and collaborate with fellow techies solving real word problems
+- Network and collaborate with fellow techies to provide solutions to real word challenges
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Patoh254code&show_icons=true&theme=radical)
