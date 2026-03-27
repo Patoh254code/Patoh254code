@@ -14,8 +14,6 @@ Passionate about leveraging **data, AI, and analytics** to solve real-world chal
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-
-**Currently Learning**  
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 ![Project Management](https://img.shields.io/badge/Agile-0096D6?style=flat&logo=agile&logoColor=white)
 
@@ -27,9 +25,14 @@ Passionate about leveraging **data, AI, and analytics** to solve real-world chal
 
 ---
 
-### 🎯 2025 Goals
-- Build 3 end-to-end ML projects
-- Complete my Data Science certification
-- Network and collaborate with fellow techies to provide solutions to real word challenges
+### 🎯 2026 Focus
+- Build 3 end-to-end machine learning projects showcasing real-world solutions
+- Collaborate with fellow tech enthusiasts to tackle practical challenges
+- Explore AI-driven solutions for agriculture, insurance, and fintech
+
+### 💻 Achievements
+- Completed Data Science Certification (2025)
+- Hands-on experience with Python, SQL, and data visualization
+- Experienced in working with large datasets and building data-driven solutions
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Patoh254code&show_icons=true&theme=radical)
